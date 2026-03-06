@@ -31,3 +31,5 @@ Spannungsschwankungen & Signalverlust: Bei ersten Tests verhielt sich die Funkst
 Lernprozess & Danksagung
 
 Da dies mein erstes Elektronik- und Luftfahrtprojekt ist, habe ich zur Orientierung und Fehlersuche verschiedene Online-Ressourcen, Foren und auch KI-Tools genutzt. Ich stehe noch am Anfang meiner Laufbahn als Ingenieur, aber die praktische Erfahrung, einen eigenen Schaltkreis zu entwerfen, die Steuerungslogik zu schreiben und reale Hardware-Probleme zu lösen, ist unglaublich wertvoll. Ich werde dieses Projekt kontinuierlich weiterentwickeln, während meine Kenntnisse in der Hard- und Softwareentwicklung wachsen.
+
+photo_2026-03-06_15-56-34.jpg
