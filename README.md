@@ -32,3 +32,23 @@ Lernprozess & Danksagung
 
 Da dies mein erstes Elektronik- und Luftfahrtprojekt ist, habe ich zur Orientierung und Fehlersuche verschiedene Online-Ressourcen, Foren und auch KI-Tools genutzt. Ich stehe noch am Anfang meiner Laufbahn als Ingenieur, aber die praktische Erfahrung, einen eigenen Schaltkreis zu entwerfen, die Steuerungslogik zu schreiben und reale Hardware-Probleme zu lösen, ist unglaublich wertvoll. Ich werde dieses Projekt kontinuierlich weiterentwickeln, während meine Kenntnisse in der Hard- und Softwareentwicklung wachsen.
 
+PHOTOS
+
+![](photos/photo_2026-03-06_15-56-34.jpg)
+
+![](photos/photo_2026-03-06_15-56-57.jpg)
+
+![](photos/photo_2026-03-06_15-57-00.jpg)
+
+![](photos/photo_2026-03-06_15-57-02.jpg)
+
+![](photos/photo_2026-03-06_15-57-06.jpg)
+
+https://github.com/user-attachments/assets/d0b1dbe1-a3e0-44ac-9407-bfa2a0fcfc4f
+
+
+
+https://github.com/user-attachments/assets/8a72a590-bb4f-4d56-94d1-3121a0aaee16
+
+
+
